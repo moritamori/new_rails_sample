@@ -1,7 +1,3 @@
-que project identifier
-# see the "settings" page of your project
 export GEMNASIUM_PROJECT_SLUG="github.com/moritamori/new_rails_sample"
-
-# user API key, from the user "settings" page
 export GEMNASIUM_TOKEN="134e740925ddda76f7ddebfa0c2b4fc4"
 export GEMNASIUM_TESTSUITE="bundle exec rake"
